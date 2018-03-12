@@ -23,11 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvisionApp.Infrastructure",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvisionApp.Common", "EvisionApp.Common\EvisionApp.Common.csproj", "{622CD948-6D79-4DC6-B4EB-1AE08C7E32EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvisionApp.UI.Web", "EvisionApp.UI.Web\EvisionApp.UI.Web.csproj", "{3DAAD2D8-1C7B-4B6F-8FEC-42DC7FA98304}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.API", "2.API", "{0FAE775F-F1FB-4A3C-9A3A-8C5C39658BA5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvisionApp.Api", "EvisionApp.Api\EvisionApp.Api.csproj", "{01094536-CD46-4BB2-9767-EB40E88F8CBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
