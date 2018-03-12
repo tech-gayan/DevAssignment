@@ -8,14 +8,14 @@ I try to ran an extra mile with this architecure keeping main objective in mind.
 PROBLEM #1
 
 Given the following interface:
-
+```
 public interface IAccountService
 {
    double GetAccountAmount(int accountId);
 }
-
+```
 ...and the following class that depends on this interface:
-
+```
 public class AccountInfo
 {
    private readonly int _accountId;
@@ -31,7 +31,7 @@ public void RefreshAmount()
    Amount = _accountService.GetAccountAmount(_accountId);
 }
 }
-
+```
 REQUIRED: Write a unit test that asserts the behaviour of RefreshAmount() method.
 
 PROBLEM #2
