@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.UI", "1.UI", "{4AAF00B4-5F2C-4F32-B026-85B445F9DEC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Service", "3.Service", "{DD225129-AE34-45D9-8AA4-72566B54A36A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Domain", "4.Domain", "{A59ADEC9-A337-4A50-BA1C-898E8AFE3B82}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Infrastructure", "5.Infrastructure", "{39123319-3C65-4CB9-8ED0-9AD3E4C59ED4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6.Common", "6.Common", "{74605323-8BE8-40C3-9DE5-B1E2B1A8BC4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvisionApp.Service", "EvisionApp.Service\EvisionApp.Service.csproj", "{5D6E00B4-94EB-4746-A167-2F4E88102BCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvisionApp.Service.Test", "EvisionApp.Service.Test\EvisionApp.Service.Test.csproj", "{CB56650D-ECFE-4AB3-98F9-642B9E4AFA68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvisionApp.Domain", "EvisionApp.Model\EvisionApp.Domain.csproj", "{E71A84D9-5C62-4E05-9959-B149EB531976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvisionApp.Infrastructure", "EvisionApp.Infrastructure\EvisionApp.Infrastructure.csproj", "{2749B949-0C88-49FD-BFB8-6AF1D98F2966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvisionApp.Common", "EvisionApp.Common\EvisionApp.Common.csproj", "{622CD948-6D79-4DC6-B4EB-1AE08C7E32EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvisionApp.UI.Web", "EvisionApp.UI.Web\EvisionApp.UI.Web.csproj", "{3DAAD2D8-1C7B-4B6F-8FEC-42DC7FA98304}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.API", "2.API", "{0FAE775F-F1FB-4A3C-9A3A-8C5C39658BA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvisionApp.Api", "EvisionApp.Api\EvisionApp.Api.csproj", "{01094536-CD46-4BB2-9767-EB40E88F8CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D6E00B4-94EB-4746-A167-2F4E88102BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6E00B4-94EB-4746-A167-2F4E88102BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6E00B4-94EB-4746-A167-2F4E88102BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6E00B4-94EB-4746-A167-2F4E88102BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB56650D-ECFE-4AB3-98F9-642B9E4AFA68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB56650D-ECFE-4AB3-98F9-642B9E4AFA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB56650D-ECFE-4AB3-98F9-642B9E4AFA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB56650D-ECFE-4AB3-98F9-642B9E4AFA68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E71A84D9-5C62-4E05-9959-B149EB531976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71A84D9-5C62-4E05-9959-B149EB531976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71A84D9-5C62-4E05-9959-B149EB531976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71A84D9-5C62-4E05-9959-B149EB531976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2749B949-0C88-49FD-BFB8-6AF1D98F2966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2749B949-0C88-49FD-BFB8-6AF1D98F2966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2749B949-0C88-49FD-BFB8-6AF1D98F2966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2749B949-0C88-49FD-BFB8-6AF1D98F2966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{622CD948-6D79-4DC6-B4EB-1AE08C7E32EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622CD948-6D79-4DC6-B4EB-1AE08C7E32EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622CD948-6D79-4DC6-B4EB-1AE08C7E32EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622CD948-6D79-4DC6-B4EB-1AE08C7E32EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DAAD2D8-1C7B-4B6F-8FEC-42DC7FA98304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DAAD2D8-1C7B-4B6F-8FEC-42DC7FA98304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DAAD2D8-1C7B-4B6F-8FEC-42DC7FA98304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DAAD2D8-1C7B-4B6F-8FEC-42DC7FA98304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01094536-CD46-4BB2-9767-EB40E88F8CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01094536-CD46-4BB2-9767-EB40E88F8CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01094536-CD46-4BB2-9767-EB40E88F8CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01094536-CD46-4BB2-9767-EB40E88F8CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5D6E00B4-94EB-4746-A167-2F4E88102BCD} = {DD225129-AE34-45D9-8AA4-72566B54A36A}
+		{CB56650D-ECFE-4AB3-98F9-642B9E4AFA68} = {DD225129-AE34-45D9-8AA4-72566B54A36A}
+		{E71A84D9-5C62-4E05-9959-B149EB531976} = {A59ADEC9-A337-4A50-BA1C-898E8AFE3B82}
+		{2749B949-0C88-49FD-BFB8-6AF1D98F2966} = {39123319-3C65-4CB9-8ED0-9AD3E4C59ED4}
+		{622CD948-6D79-4DC6-B4EB-1AE08C7E32EF} = {74605323-8BE8-40C3-9DE5-B1E2B1A8BC4E}
+		{3DAAD2D8-1C7B-4B6F-8FEC-42DC7FA98304} = {4AAF00B4-5F2C-4F32-B026-85B445F9DEC4}
+		{01094536-CD46-4BB2-9767-EB40E88F8CBD} = {0FAE775F-F1FB-4A3C-9A3A-8C5C39658BA5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C1293F0-DF43-4740-BFEA-28AEC86E605E}
+	EndGlobalSection
+EndGlobal

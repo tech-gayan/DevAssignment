@@ -1,0 +1,12 @@
+C:\Users\gpa\documents\visual studio 2017\Projects\EvisionApp\EvisionApp.Service\bin\Debug\EvisionApp.Service.dll
+C:\Users\gpa\documents\visual studio 2017\Projects\EvisionApp\EvisionApp.Service\bin\Debug\EvisionApp.Service.pdb
+C:\Users\gpa\documents\visual studio 2017\Projects\EvisionApp\EvisionApp.Service\obj\Debug\EvisionApp.Service.csprojResolveAssemblyReference.cache
+C:\Users\gpa\documents\visual studio 2017\Projects\EvisionApp\EvisionApp.Service\obj\Debug\EvisionApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\gpa\documents\visual studio 2017\Projects\EvisionApp\EvisionApp.Service\obj\Debug\EvisionApp.Service.dll
+C:\Users\gpa\documents\visual studio 2017\Projects\EvisionApp\EvisionApp.Service\obj\Debug\EvisionApp.Service.pdb
+C:\Users\gpa\Documents\visual studio 2017\Projects\EVision\Source\EvisionApp.Service\bin\Debug\EvisionApp.Service.dll
+C:\Users\gpa\Documents\visual studio 2017\Projects\EVision\Source\EvisionApp.Service\bin\Debug\EvisionApp.Service.pdb
+C:\Users\gpa\Documents\visual studio 2017\Projects\EVision\Source\EvisionApp.Service\obj\Debug\EvisionApp.Service.csprojResolveAssemblyReference.cache
+C:\Users\gpa\Documents\visual studio 2017\Projects\EVision\Source\EvisionApp.Service\obj\Debug\EvisionApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\gpa\Documents\visual studio 2017\Projects\EVision\Source\EvisionApp.Service\obj\Debug\EvisionApp.Service.dll
+C:\Users\gpa\Documents\visual studio 2017\Projects\EVision\Source\EvisionApp.Service\obj\Debug\EvisionApp.Service.pdb

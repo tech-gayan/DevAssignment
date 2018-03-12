@@ -1,0 +1,6 @@
+C:\Users\gpa\Documents\Visual Studio 2017\Projects\EVision\Source\EvisionApp.Model\bin\Debug\EvisionApp.Model.dll
+C:\Users\gpa\Documents\Visual Studio 2017\Projects\EVision\Source\EvisionApp.Model\bin\Debug\EvisionApp.Model.pdb
+C:\Users\gpa\Documents\Visual Studio 2017\Projects\EVision\Source\EvisionApp.Model\obj\Debug\EvisionApp.Model.csprojResolveAssemblyReference.cache
+C:\Users\gpa\Documents\Visual Studio 2017\Projects\EVision\Source\EvisionApp.Model\obj\Debug\EvisionApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\gpa\Documents\Visual Studio 2017\Projects\EVision\Source\EvisionApp.Model\obj\Debug\EvisionApp.Model.dll
+C:\Users\gpa\Documents\Visual Studio 2017\Projects\EVision\Source\EvisionApp.Model\obj\Debug\EvisionApp.Model.pdb
