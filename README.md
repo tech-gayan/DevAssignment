@@ -13,7 +13,9 @@ public interface IAccountService
 {
    double GetAccountAmount(int accountId);
 }
+
 ...and the following class that depends on this interface:
+
 public class AccountInfo
 {
    private readonly int _accountId;
@@ -29,6 +31,7 @@ public void RefreshAmount()
    Amount = _accountService.GetAccountAmount(_accountId);
 }
 }
+
 REQUIRED: Write a unit test that asserts the behaviour of RefreshAmount() method.
 
 PROBLEM #2
@@ -46,10 +49,15 @@ Write a build script. Consider compilation, test execution and producing a nuget
 This project implements NTier architecure which contains,
 
 1.UI - User interface layer (This can contain any js framework or MVC web app)
+
 2.API - This can contain Any API (Ex: web API, WCF) 
+
 3.Services - Service layer of the appplication where all the service functionality goes here
+
 4.Domain - Domain related  entities,Dtos goes here
+
 5.Infrastructure - Depends on the ORM or the DB communication this can contain releated main functionality(Ex: Entity framework context)
+
 6.Common - all the other commen functionalities releated to whole project (Ex: Enum, Constants, Error loggin, Notification, Etc,etc...)
 
 Architecture of above project implements some of the best practices of the inductru aligh with coding standers and the dependancy injection.
